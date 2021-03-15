@@ -1,0 +1,8 @@
+# terraform metadata
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# local stuff
+sa.json
+.env
